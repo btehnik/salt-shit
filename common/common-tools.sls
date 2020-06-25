@@ -1,6 +1,7 @@
 common-tools:
-    pkg-installed:
-     - nano
-     - wget
-     - mc
-     - gcc
+  pkg-installed:
+    - pkgs:
+      - nano
+      - wget
+      - mc
+      - gcc
