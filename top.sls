@@ -1,4 +1,7 @@
 base:
   '*':
-    - common
-     
+    - nano
+    - wget
+    - mc
+    - gcc
+    - htop
