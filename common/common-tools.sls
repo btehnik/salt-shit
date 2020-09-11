@@ -6,3 +6,4 @@ common-tools:
       - mc
       - gcc
       - htop
+      - atop
