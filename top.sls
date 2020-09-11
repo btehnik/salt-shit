@@ -1,7 +1,3 @@
 base:
   '*':
-    - nano
-    - wget
-    - mc
-    - gcc
-    - htop
+    - common.common-tools
