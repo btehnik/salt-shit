@@ -1,4 +1,4 @@
-users:
+base:
   'centos8-stgn1*':
     - users.devs
 
