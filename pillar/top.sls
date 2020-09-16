@@ -1,6 +1,6 @@
 users:
   'centos8-stgn1*':
-    - devs
+    - users.devs
 
   'centos8-stgn2*':
-    - ops
+    - users.ops
