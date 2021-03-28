@@ -1,2 +1,2 @@
 # salt-shit
-Some simple salt shit
+This is some simple salt shit
